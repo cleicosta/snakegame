@@ -4,4 +4,4 @@
 ##linguaguens utilizadas:
 ### HTML
 ### CSS
-###JavaScript
+### JavaScript
